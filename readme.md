@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Anurag Bairagi
 #### I am Full Stack Software Developer (Learning)
-![I am Full Stack Software Developer (Learning)](https://anurag-044.github.io/github-profile-readme-generator/images/banner.png)
+![I am Full Stack Software Developer (Learning)]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
